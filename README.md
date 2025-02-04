@@ -18,7 +18,6 @@ Projeto de controle de LEDs RGB com temporização por alarmes.Utiliza interrup�
 | LEDs RGB                | 1          | Ou 3 LEDs individuais (Vermelho, Verde, Azul) |
 | Botão (Pushbutton)      | 1          | Para acionamento manual              |
 | Resistores 330 Ω        | 3          | Proteção dos LEDs                    |
-| Protoboard              | 1          | Para montagem do circuito (opcional) |
 
 ### Software
 - [SDK do Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/c-sdk.html)
